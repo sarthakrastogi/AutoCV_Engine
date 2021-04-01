@@ -1,0 +1,4 @@
+pillow==8.0.1
+streamlit==0.75.0
+torch==1.6.0
+torchvision==0.7.0
